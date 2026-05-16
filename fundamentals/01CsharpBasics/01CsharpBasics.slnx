@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="BankAccount/BankAccountExercise.csproj" />
+  <Project Path="ProductAndStockExercise/ProductAndStockExercise.csproj" Id="22860f02-3002-4539-83df-39f560504fea" />
+  <Project Path="TestExercise/TestExercise.csproj" Id="7888e904-0415-42dc-a2b8-782b7bad9f67" />
 </Solution>
